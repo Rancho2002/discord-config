@@ -1,0 +1,9 @@
+discord==2.3.2
+discord-py-slash-command==4.2.1
+discord.py==2.3.2
+frozenlist==1.4.0
+idna==3.4
+multidict==6.0.4
+openai==0.28.1
+requests==2.31.0
+

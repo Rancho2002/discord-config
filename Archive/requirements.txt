@@ -1,0 +1,6 @@
+discord==2.3.2
+discord-py-slash-command==4.2.1
+discord.py==2.3.2
+multidict==6.0.4
+openai==0.28.1
+
